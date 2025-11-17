@@ -33,8 +33,6 @@
 
 <img width="1920" height="1080" alt="Снимок экрана (1872)" src="https://github.com/user-attachments/assets/d0fa7433-d1f3-4616-8b21-e40553ef66b1" />
 
-<img width="1920" height="1080" alt="Снимок экрана (1871)" src="https://github.com/user-attachments/assets/a652b73e-f287-40bd-af32-f4e162fb9f22" />
-
 <img width="1920" height="1080" alt="Снимок экрана (1870)" src="https://github.com/user-attachments/assets/d2aa66e7-2d59-4eb0-b10b-8a02c18c6159" />
 
 <img width="1920" height="1080" alt="Снимок экрана (1869)" src="https://github.com/user-attachments/assets/b8d4a4f6-298c-4e0c-ba99-a08060e7cac8" />
