@@ -1,0 +1,19 @@
+---
+all:
+  children:
+    deb:
+      hosts:
+        deb-01:
+          ansible_user: root
+          ansible_host: deb-01
+          ansible_connection: docker
+    el:
+      hosts:
+        el-01:
+          ansible_user: root
+          ansible_host: el-01
+          ansible_connection: docker
+    local:
+      hosts:
+        localhost:
+          ansible_connection: local      
