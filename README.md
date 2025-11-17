@@ -23,7 +23,6 @@
 
 ## Ответ:
 
-<img width="1920" height="1080" alt="Снимок экрана (1876)" src="https://github.com/user-attachments/assets/efec0f53-3943-4c21-83a2-a72a5c09f33e" />
 
 <img width="1920" height="1080" alt="Снимок экрана (1875)" src="https://github.com/user-attachments/assets/e6e48e38-684a-4790-8602-9742add702f4" />
 
